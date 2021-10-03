@@ -1,0 +1,50 @@
+body {
+    background-color: #393E46;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 4rem;
+    color: #699615;
+    text-align: center;
+  }
+  .playerOne
+  {
+    height:14rem;
+    width:14rem;
+    margin-top:2rem;
+    margin-left:33rem;
+    float: left;
+  }
+  .playerTwo
+  {
+    margin-top:2rem;
+    margin-left:2rem;
+    height:14rem;
+    width:14rem;
+    
+  }
+
+ 
+    .button {
+        margin-left:44rem!important;
+        margin-top:3rem!important;
+        background-color: #f41e1e;
+        border-radius: 25px;
+        border:none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        font-size: 16px;
+        margin: 4px 2px;
+        opacity: 0.6;
+        transition: 0.3s;
+        display: inline-block;
+        text-decoration: none;
+        cursor: pointer;
+      }
+      
+      .button:hover {opacity: 1}
+  
